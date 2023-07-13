@@ -1,0 +1,37 @@
+export const Data=[
+    {
+        id:1,
+        day:"M",
+        No:5,
+    },
+    {
+        id:1,
+        day:"T",
+        No:4,
+    },
+    {
+        id:1,
+        day:"W",
+        No:3,
+    },
+    {
+        id:1,
+        day:"Th",
+        No:4,
+    },
+    {
+        id:1,
+        day:"F",
+        No:5,
+    },
+    {
+        id:1,
+        day:"S",
+        No:6,
+    },
+    {
+        id:1,
+        day:"Su",
+        No:7,
+    }
+];
